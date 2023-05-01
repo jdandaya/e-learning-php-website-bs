@@ -1,7 +1,1 @@
-$theme-colors: (
-  "primary": #000,
-  "danger": $danger
-);
-@import "../node_modules/bootstrap/scss/bootstrap.scss"
-
-
+@use '_custom';
