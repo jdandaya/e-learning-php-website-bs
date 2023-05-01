@@ -1,7 +1,8 @@
 //MY THEME COLORS
-$purple:  #6f42c1;
-$pink:    #d63384;
+$purple:  #f5c41b;
+$pink:    #8bf6f7;
 //PRIMARY && SECONDARY
 $primary:$purple;
 $secondary:$pink;
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+//npm run compile:sass
